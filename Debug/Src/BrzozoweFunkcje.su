@@ -1,0 +1,3 @@
+BrzozoweFunkcje.c:13:10:MeasureBH1750	16	static
+BrzozoweFunkcje.c:31:6:RewriteLCD	40	static
+BrzozoweFunkcje.c:60:6:CalculatePID	32	static
